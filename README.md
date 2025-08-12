@@ -1,7 +1,5 @@
 marco46777
-<h1 align="center" style="background-color:#001f3f; color:white; padding:10px;">
-  Hola 👋, Soy Marco Antonio Rhenals Agresoth
-</h1>
+![Hola](https://via.placeholder.com/800x100/001f3f/ffffff?text=Hola+👋,+Soy+Marco+Antonio+Rhenals+Agresoth)
 
 <h3 align="center">Soy Desarrollador de Front-End</h3>
 
