@@ -1,5 +1,8 @@
 marco46777
-<h1 align="center">Hola 👋, Soy Marco Antonio Rhenals Agresoth</h1>
+<h1 align="center" style="background-color:#001f3f; color:white; padding:10px;">
+  Hola 👋, Soy Marco Antonio Rhenals Agresoth
+</h1>
+
 <h3 align="center">Soy Desarrollador de Front-End</h3>
 
 - 👨‍💻 All of my projects are available at [marco46777](https://github.com/marco46777)
