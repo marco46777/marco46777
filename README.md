@@ -1,6 +1,5 @@
 marco46777
-![Hola](https://via.placeholder.com/800x100/001f3f/ffffff?text=Hola+👋,+Soy+Marco+Antonio+Rhenals+Agresoth)
-
+<h1 align="center">Hola 👋, Soy Marco Antonio Rhenals Agresoth</h1>
 <h3 align="center">Soy Desarrollador de Front-End</h3>
 
 - 👨‍💻 All of my projects are available at [marco46777](https://github.com/marco46777)
